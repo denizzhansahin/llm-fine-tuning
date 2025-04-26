@@ -1,3 +1,6 @@
+Wiki sayfamız : https://deepwiki.com/denizzhansahin/llm-fine-tuning   
+
+
 # llm-fine-tuning
 Bu repoda DeepSeek, Unsloth, Ngrok ve Flask ile çalışmalarımız yer almaktadır.
 
